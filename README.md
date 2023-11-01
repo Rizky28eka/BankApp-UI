@@ -6,4 +6,4 @@ Here are the Flutter libraries that are utilized in this project:
 
 - **sizer:** Sizer is a library that assists you in creating responsive and adaptive user interfaces that cater to varying screen sizes, orientations, and platforms. You can utilize this library to adjust the size of your widgets, text, padding, margins, and more, based on percentages or device orientation.
 
-[Instagram Posted](https://www.instagram.com/p/CzGlaZWSo3N/)
+[Instagram Posted](https://www.instagram.com/p/CzGo5yoSdym/)

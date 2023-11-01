@@ -1,18 +1,9 @@
-# Mobile Banking Application
+### Flutter Libraries Utilized
 
-This is an open-source project made by me. You can use it for personal purpose only. 
-Any commercial use is strictly restricted. Thank you!
-![Screenshot](app_preview.png)
+Here are the Flutter libraries that are utilized in this project:
 
-## Getting Started
+- **cupertino_icons:** This library provides icons that adhere to the iOS design language, enabling you to achieve a more consistent look with the iOS platform for your app.
 
-This project is a starting point for a Flutter application.
+- **sizer:** Sizer is a library that assists you in creating responsive and adaptive user interfaces that cater to varying screen sizes, orientations, and platforms. You can utilize this library to adjust the size of your widgets, text, padding, margins, and more, based on percentages or device orientation.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Instagram Posted](https://www.instagram.com/p/CzGlaZWSo3N/)
